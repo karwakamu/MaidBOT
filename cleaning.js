@@ -1,4 +1,5 @@
 module.exports.startCycle = startCycle;
+const dayMillseconds = 1000 * 60 * 60 * 24;
 var discordClient;
 
 function startCycle(client) {
@@ -9,7 +10,6 @@ function startCycle(client) {
 		
     setTimeout(function () {
         clear();
-        var dayMillseconds = 1000 * 60 * 60 * 24;
         setInterval(function () {
             clear();
         }, dayMillseconds);
@@ -33,7 +33,7 @@ function initTime() {
 	var time = (-date + date.setHours(5, 0, 0, 0));
     if(time < 0)
 	{
-		time = Math.abs(time) + (1000 * 60 * 60 * 12);
+		time = time + dayMillseconds;
 	}
 	return time;
 }
