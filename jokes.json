@@ -22,5 +22,13 @@
 	"joke5": {
 		"setup": "Mitkä ovat kolme suomalaista kuovilajia?",
 		"punchline": "Pikkukuovi, isokuovi ja liukuovi"
-	}
+	},
+	"joke6": {
+		"setup": "Mitä teekaupan uudelle harjoittelijalle opetetaan ensimmäisenä?",
+		"punchline": "Perusteet"
+	},
+	"joke7": {
+		"setup": "Miksi kutsutaan taikurin ja koiran sekoitusta?",
+		"punchline": "Labracadabradoriksi"
+	},
 }
