@@ -6,6 +6,6 @@ const cleaning = require('./cleaning');
 client.login(process.env.bot_secret_token);
 
 client.on('ready', () => {
-	console.log("connected");	
+	console.log("connected");
 	cleaning.startCycle(client);
 })
