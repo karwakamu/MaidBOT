@@ -1,0 +1,26 @@
+{
+	"joke0": {
+		"setup": "Mistä tunnistaa venäläisen käärmeentutkijan?",
+		"punchline": "Se on kyyryssä"
+	},
+	"joke1": {
+		"setup": "Mitä puolalainen teki altaassa?",
+		"punchline": "Polski"
+	},
+	"joke2": {
+		"setup": "Miksi Neumann oli keksihyllyllä?",
+		"punchline": "Sillä oli levoton Tuc-himo"
+	},
+	"joke3": {
+		"setup": "Mitä ruokaa voi syödä kuussa ja maassa?",
+		"punchline": "Kuumaa ruokaa"
+	},
+	"joke4": {
+		"setup": "Mitä eroa on mustilla ja vihreillä oliiveilla?",
+		"punchline": "Musti on koira"
+	},
+	"joke5": {
+		"setup": "Mitkä ovat kolme suomalaista kuovilajia?",
+		"punchline": "Pikkukuovi, isokuovi ja liukuovi"
+	}
+}
